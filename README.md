@@ -29,17 +29,18 @@ Hi! I'm Tomás, a Pharmaceutical Chemist who is now exploring one of my oldest p
 
 <h2 align="center">:robot:I’m currently learning...:robot:</h2>
 <ul>
-  <li>Java :coffee:</li>
   <li>C# :cat:</li>
   <li>Game Design :suspect:</li>
   <li>Japanese :dango:</li>
-  <li><del>Re</del>Learning Piano :musical_note:</li>
 </ul>
 
 <h2 align="center">:trophy:	Certificates :trophy:</h2>
 <p align="center">
   <a href="https://www.acreditta.com/credential/ec8f8792-8e6c-49f6-904b-27bec34436de?resource_type=badge&resource=ec8f8792-8e6c-49f6-904b-27bec34436de">
     <img src="https://www.acreditta.com/_next/image?url=https%3A%2F%2Facreditta-rutas-prod.s3.amazonaws.com%2Fmedia%2Fpublic%2Fbadge_templates%2Fimages%2F1640_badge_template_25d6e7a1-ab6a-49d3-9f7a-bcdd4e8699f5%2Fmedium.png%3Ftime%3D1724631058863&w=1200&q=75" width="130" />
+  </a>
+   <a href="https://www.acreditta.com/credential/a9d18bfd-0bf6-4ce5-ada5-65c901ce7c48">
+    <img src="http://acreditta.com/_next/image?url=https%3A%2F%2Facreditta-rutas-prod.s3.amazonaws.com%2Fmedia%2Fpublic%2Fbadge_templates%2Fimages%2F1640_badge_template_c21b2226-ea25-4785-aa4a-dca43e2f6562%2Fmedium.png%3Ftime%3D1748926693815&w=1080&q=75" width="130" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/063a8ca8-51a9-45a2-af82-a664fab53970">
     <img src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" width="130" />
