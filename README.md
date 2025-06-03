@@ -21,7 +21,7 @@ Hi! I'm Tomás, a Pharmaceutical Chemist who is now exploring one of my oldest p
 <h2 align="center">:mage: Toolkit :mage:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,py,java,cs,bootstrap,tailwind,jquery,django,nodejs,flask,postgres,sqlite,aws,vscode,godot,unity,gamemakerstudio,blender,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,py,java,cs,bootstrap,jquery,django,flask,postgres,sqlite,aws,vscode,godot,unity,gamemakerstudio,blender,&perline=12" />
   </a>
 </p>
 
