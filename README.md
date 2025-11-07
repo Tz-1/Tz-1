@@ -45,9 +45,6 @@ Hi! I'm Tomás, a Pharmaceutical Chemist who is now exploring one of my oldest p
   <a href="https://www.credly.com/earner/earned/badge/063a8ca8-51a9-45a2-af82-a664fab53970">
     <img src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" width="130" />
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/53bae04c-1a28-4b57-89fe-eae42cce27b8">
-    <img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" width="130" />
-  </a>
 </p>
 
 
